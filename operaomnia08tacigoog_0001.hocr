@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia08tacigoog_0001.png"; bbox 0 0 3050 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 277 134 883 342">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 277 79 883 342">
+     <span class='ocr_line' id='line_1_1' title="bbox 277 134 883 342; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 277 134 801 342; x_wconf 60' lang='lat' dir='ltr'><strong><em>ffiffimm</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 882 330 883 338; x_wconf 11' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 188 74 886 490">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 188 74 886 490">
+     <span class='ocr_line' id='line_1_2' title="bbox 188 74 886 490; baseline 0 4444"><span class='ocrx_word' id='word_1_3' title='bbox 188 74 886 490; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 248 374 769 483">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 248 374 769 486">
+     <span class='ocr_line' id='line_1_3' title="bbox 248 374 769 483; baseline -0.012 -36"><span class='ocrx_word' id='word_1_4' title='bbox 248 482 271 483; x_wconf 17' lang='grc' dir='ltr'><em>ἦ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 305 374 406 446; x_wconf 65' lang='lat' dir='ltr'><strong><em>Hx</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 457 374 673 442; x_wconf 68' lang='grc' dir='ltr'><strong><em>κΕΡΡ</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 725 374 769 442; x_wconf 69' lang='grc' dir='ltr'>ε</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
